@@ -1,2 +1,2 @@
-# HTML e CSS
+# HTML, CSS e JavaScript
 Meu avanço em HTML
